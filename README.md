@@ -8,5 +8,7 @@ This a simulation to Digital Hearing Aid on Raspberry-pi 3 with GUI using Python
 
 Our purpose is to increase or decrease the gain of specific frequencies which is needed by the Hearing impaired person 
 
-https://www.youtube.com/watch?v=IeJyLH5R8Pw
-https://www.youtube.com/watch?v=p_MWyDB-nUw
+
+
+[Digital Hearing Aid Video1](https://www.youtube.com/watch?v=IeJyLH5R8Pw)
+[Digital Hearing Aid Video2](https://www.youtube.com/watch?v=p_MWyDB-nUw)
